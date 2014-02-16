@@ -1,5 +1,5 @@
 html {
-  background: url(http://blog.westervillelibrary.org/director/wp-content/uploads/2012/09/road-highway-street-desert-iStock_000016761568Large1.jpg) no-repeat center center fixed;
+  background: url(bg.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,8 +18,8 @@ html {
    margin: auto;
    text-align: center;
    font-size: 250%;
-   top: 150px;
+   top: 120px;
    color: #222222;
-   width: 60%;
+   width: 50%;
    position: relative;
 }
